@@ -1,4 +1,3 @@
-
 n, m = map(int, input().split()) 
 lista_adjacencia = [[] for _ in range(n)]
 
